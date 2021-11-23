@@ -3,4 +3,4 @@
 #### This application assists in understanding the customers’ requirements and preferences that will potentially be used to drive improvement.
 
 ## Preview of the App
-![image](https://user-images.githubusercontent.com/81804267/143064262-6bd767df-7ab6-45bc-bec3-84be9a003e22.png)
+![Capture](https://user-images.githubusercontent.com/82457590/143098324-daf53d33-0f85-4ac6-8032-6b2b4b6370c6.PNG)
