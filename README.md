@@ -1,5 +1,5 @@
 # Hotel-Review-Sentiment-Analysis
-### Link for the App: https://hotel-review-sentiments.herokuapp.com/
+### App Link: https://hotel-review-sentiments.herokuapp.com/
 #### 
 
 ## Demo of the App
